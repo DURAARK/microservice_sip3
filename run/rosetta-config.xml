@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- configuration file for Rosetta SIP generator--><!--Created by Hamid Rofoogaran--><!--LDB-Centrum | LTU--><rosetta_sip>
+	<uid>UUID:Rosetta-SIP</uid>
+	<a/>
+	<katSystem>system</katSystem>
+	<katMetadata>metadata</katMetadata>
+	<katContent>content/streams</katContent>
+	<utFilContent>cHashsum.txt</utFilContent>
+	<utFilMets>content/ie.xml</utFilMets>
+        <dcXml>content/dc.xml</dcXml>
+	<katTarPaket>sip/</katTarPaket>
+	<katTarStart>content/</katTarStart>
+	<patheARDsip>PrototypeY2.jar</patheARDsip> <!-- Rosetta.jar -->
+	<hashSumType>md5</hashSumType>
+	<md5Lista/>
+	<config_db>
+		<!--SQLITE -->
+		<jdbcreg01>org.sqlite.JDBC</jdbcreg01>
+		<url01>jdbc:sqlite:sipdb.db</url01>
+		<user01>root</user01>
+		<pw01>rishe</pw01>
+	</config_db>
+	<!--Config för droidning -->
+	<config_filanalys>
+		<katalogOverSubkat>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip2/SIP_Generator_Y2/Prototyp_Y2/run/run/</katalogOverSubkat> <!-- Trying with FULLPATH -->   
+		<pathDroidJar>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip2/SIP_Generator_Y2/Prototyp_Y2/run/run/droid/droid.jar</pathDroidJar><!-- FULLPATH -->
+		<argSignaturfil>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip2/SIP_Generator_Y2/Prototyp_Y2/run/run/droid/DROID_SignatureFile_V81.xml</argSignaturfil>
+		<argUtskriftfil>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip2/SIP_Generator_Y2/Prototyp_Y2/run/run/droid/outputDroid</argUtskriftfil> <!-- Prøver uten .xml -->
+		<droidInputFil>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip2/SIP_Generator_Y2/Prototyp_Y2/run/run/droid/DroidInputFil.xml</droidInputFil>
+	</config_filanalys>
+</rosetta_sip>
