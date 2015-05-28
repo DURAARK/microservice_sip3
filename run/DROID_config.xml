@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfigFile xmlns="http://www.nationalarchives.gov.uk/pronom/ConfigFile">
-  <SigFile>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/droid/DROID_SignatureFile_V81.xml</SigFile>
+  <SigFile>droid/DROID_SignatureFile_V81.xml</SigFile>
   <SigFileVersion>81</SigFileVersion>
   <SigFileURL>http://www.nationalarchives.gov.uk/pronom/service.asmx</SigFileURL>
   <ProxyHost />

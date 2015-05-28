@@ -5,7 +5,7 @@ To run this you need to be on a system with command line hash-tools like md5 ava
 
 Java and sqlite3 are required.
 
-Go to the folder run/ folder
+Go to the folder run/
 
 First set up the sqlite database using the initiate_sqlitedb.sql file.
 

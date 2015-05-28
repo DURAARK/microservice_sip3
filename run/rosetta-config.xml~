@@ -21,10 +21,10 @@
 	</config_db>
 	<!--Config för droidning -->
 	<config_filanalys>
-		<katalogOverSubkat>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/</katalogOverSubkat>
-		<pathDroidJar>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/droid/droid.jar</pathDroidJar>
-		<argSignaturfil>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/droid/DROID_SignatureFile_V81.xml</argSignaturfil>
-		<argUtskriftfil>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/droid/outputDroid</argUtskriftfil> 
-		<droidInputFil>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/droid/DroidInputFil.xml</droidInputFil>
+		<katalogOverSubkat>run/</katalogOverSubkat>
+		<pathDroidJar>run/droid/droid.jar</pathDroidJar>
+		<argSignaturfil>run/droid/DROID_SignatureFile_V81.xml</argSignaturfil>
+		<argUtskriftfil>run/droid/outputDroid</argUtskriftfil> 
+		<droidInputFil>run/droid/DroidInputFil.xml</droidInputFil>
 	</config_filanalys>
 </rosetta_sip>
