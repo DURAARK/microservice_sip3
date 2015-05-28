@@ -2,9 +2,9 @@
 <FileCollection xmlns="http://www.nationalarchives.gov.uk/pronom/FileCollection">
   <DROIDVersion>4.0</DROIDVersion>
   <SignatureFileVersion>81</SignatureFileVersion>
-  <DateCreated>2015-05-27T17:38:36</DateCreated>
+  <DateCreated>2015-05-28T10:42:35</DateCreated>
   <IdentificationFile IdentQuality="Positive" >
-    <FilePath>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip2/SIP_Generator_Y2/Prototyp_Y2/run/run/content/streams/baderom.png</FilePath>
+    <FilePath>/home/dagedv/development/DURAARK_PARENT/duraark-platform-api/microservice_sip3/run/content/streams/baderom.png</FilePath>
     <FileFormatHit>
       <Status>Positive (Specific Format)</Status>
       <Name>Portable Network Graphics</Name>
