@@ -21,10 +21,10 @@
 	</config_db>
 	<!--Config för droidning -->
 	<config_filanalys>
-		<katalogOverSubkat>run/</katalogOverSubkat>
-		<pathDroidJar>run/droid/droid.jar</pathDroidJar>
-		<argSignaturfil>run/droid/DROID_SignatureFile_V81.xml</argSignaturfil>
-		<argUtskriftfil>run/droid/outputDroid</argUtskriftfil> 
-		<droidInputFil>run/droid/DroidInputFil.xml</droidInputFil>
+		<katalogOverSubkat>../run/</katalogOverSubkat>
+		<pathDroidJar>droid/droid.jar</pathDroidJar>
+		<argSignaturfil>droid/DROID_SignatureFile_V81.xml</argSignaturfil>
+		<argUtskriftfil>droid/outputDroid</argUtskriftfil> 
+		<droidInputFil>droid/DroidInputFil.xml</droidInputFil>
 	</config_filanalys>
 </rosetta_sip>
