@@ -21,7 +21,7 @@
 	</config_db>
 	<!--Config för droidning -->
 	<config_filanalys>
-		<katalogOverSubkat></katalogOverSubkat>
+		<katalogOverSubkat/>
 		<pathDroidJar>droid/droid.jar</pathDroidJar>
 		<argSignaturfil>droid/DROID_SignatureFile_V81.xml</argSignaturfil>
 		<argUtskriftfil>droid/outputDroid</argUtskriftfil> 
