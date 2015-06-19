@@ -38,5 +38,5 @@ Change to the folder './microservice_sip3/run' and start the package creation wi
 ```bash
 java -jar PrototypeY2.jar <name_of_output_sip>
 ```
-This will create a SIP which is placed in the './microservice_sip3/run/content' folder.
+This will create a SIP which is placed in the './microservice_sip3/run/sip' folder as 'tar' archive.
 
